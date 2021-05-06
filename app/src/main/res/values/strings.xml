@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="вход">Вход</string>
+    <string name="n">Выполните вход \nили зарегистрируйтесь.</string>
+    <string name="tap">Нажмите сюда</string>
+    <string name="password">Забыли пароль?</string>
+    <string name="pass">Введите пароль</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="sigh_in">Войти</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="_312">312</string>
+    <string name="ect">Перейти</string>
+    <string name="num">Введите цифру</string>
+    <string name="change">Поменять</string>
+</resources>
